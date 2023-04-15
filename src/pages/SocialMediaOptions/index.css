@@ -1,0 +1,17 @@
+.login__with__container {
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+  }
+  
+  .login__with__image__box {
+    /* padding: ; */
+    border-right: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 0.625rem;
+  }
+  .login__with__text {
+    font-weight: 400;
+    font-size: 1rem;
+    color: #000000;
+    padding: 0.625rem 30px;
+  }
